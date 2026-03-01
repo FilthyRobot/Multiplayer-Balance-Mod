@@ -1,0 +1,54 @@
+VERSION 1.2
+VERSION CHANGES
+
+HOTFIX
+Updated family luxury code to work after live change
+
+CUMULATIVE CHANGES
+
+ARCHETYPES
+Schemer
+  Reduced bonus orders per war to .5 (from 1)
+
+UNITS + IMPROVEMENTS
+Macemen
+  Macemen now start with Cleave I and Anti-Infantry I (previously: Anti-Infantry I)
+  Reduced cost to 90 training (from 100)
+  Reduced cost to 125 iron (from 150)
+  Reduced upkeep cost to 3 iron, 1 food (from 3 iron, 1 food, 1 training)
+Holy Sites
+  Disciple spawn rate increased to once every 10 years (previously: one every 20 years)
+Museaum
+  Reduced science multiplier to 1.33 (from 1.5)
+
+EVENTS
+Claimed Lands
+  Added minimum t30 to event (from no turn limit)
+Diegylis (Thracian elimination event)
+  Removed from competitive mode
+Local Authority (Influence mission event)
+  Removed from competitive mode
+Steed of the Gods (horse harvest event)
+  Leader trait reward changed to equestrian (previously swift)
+Sword of the Gods 
+  Strength bonus changed to +25% (previously +50%) 
+  Strength bonus changed to work vs all unit types (previously vs infantry only)
+
+TECH AND TECH CARDS
+Courtier tech cards changed
+  Cost
+    Reduced to 40% of tech cost (previously: 50%)
+  Behavior
+    Courtier tech cards now offer the player a choice of three set, previewable characters (previously: one random, not previewable)
+  Locations
+    Court Scholar Card moved to Land Consolidation (previously at Metaphysics)
+    Court Scholar Card moved to Portcullis (previously at Scholarship)
+    Court Soldier Card moved to Steel (previously at Battleline)
+    Court Soldier Card moved to Composite Bow (previously at Infantry Square)
+    Court Minister Card moved to Architecture (previously at Citizenship)
+    Court Minister Card moved to Scholarship (previously at Jurisprudence)
+    Court Merchant Card moved to Martial Code (previously at Fiscal Code)
+    Court Merchant Card moved to Lateen Sail (previously at Chain Drive)
+Luxury tech cards changed
+  Behavior
+    Luxury tech cards now offer the player the choice of any luxury desired by their families (previously: a set, non-family lux based on tree location)
